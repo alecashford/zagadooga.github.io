@@ -2,11 +2,17 @@ body {
 	font-family: "Arial";
 }
 
+a:link {color: #474747;}
+a:visited {color: #FFFFFF;}
+a:hover {color: #FF9900;}
+a:active {color: #FFFF66;}
+
 #header {
 	text-align: center;
+	margin-right: 100px;
+	color: #FFFFFF;
 	background-color: #FF9900;
 	border-radius: 25px;
-	font-color: #FFFFFF;
 }
 
 #sidebar {
@@ -27,6 +33,7 @@ body {
 
 .flag {
 	margin-left: 150px;
+	margin-right: 100px;
 	padding-left: 30;
 	border: 2px solid;
 	border-radius: 25px;
