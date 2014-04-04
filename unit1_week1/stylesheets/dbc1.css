@@ -1,6 +1,4 @@
-selector:pseudo-class {
 	a:link {color:#FF0000;}
 	a:visited {fuschia;}
 	a:hover {yellow;}
 	a:active {red;}
-}
