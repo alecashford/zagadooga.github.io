@@ -3,7 +3,7 @@ body {
 }
 
 a:link {color: #474747;}
-a:visited {color: #FFFFFF;}
+a:visited {color: #000000;}
 a:hover {color: #FF9900;}
 a:active {color: #FFFF66;}
 
@@ -40,6 +40,7 @@ a:active {color: #FFFF66;}
 	border-radius: 25px;
 	margin-bottom: 15px;
 	margin-top: 15px;
+	position: relative;
 
 }
 
