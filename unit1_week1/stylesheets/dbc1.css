@@ -4,3 +4,7 @@ selector:pseudo-class {
 	a:hover {yellow;}
 	a:active {red;}
 }
+
+p {
+	font-family: "Arial";
+}
