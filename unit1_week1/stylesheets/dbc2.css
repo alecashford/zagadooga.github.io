@@ -26,15 +26,19 @@ body {
 
 .flag {
 	margin-left: 150px;
+	padding-left: 30;
 	border: 2px solid;
-	border-radius: 0px;
+	border-radius: 25px;
+	min-height: 80px;
 	margin-bottom: 15px;
 
 }
 
 #footer {
+	margin-left: 150px;
 	font-size: 10;
 	opacity: 40;
 	text-align: center;
+	padding-left: 30;
 	padding-bottom: 30px;
 }
