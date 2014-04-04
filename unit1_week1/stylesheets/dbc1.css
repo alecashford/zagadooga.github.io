@@ -1,9 +1,9 @@
-selector:pseudo-class {
-	a:link {color:blue;}
-	a:visited {fuschia;}
-	a:hover {yellow;}
-	a:active {red;}
-}
+
+a:link {color:blue;}
+a:visited {fuschia;}
+a:hover {yellow;}
+a:active {red;}
+
 
 body {
 	font-family: "Arial";
