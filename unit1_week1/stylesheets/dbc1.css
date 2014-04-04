@@ -1,9 +1,9 @@
 
-a:link {color: blue;}
+a:link {color: #0000FF;}
 a:link {font-size: 20px;}
-a:visited {color: fuschia;}
-a:hover {color: yellow;}
-a:active {color: red;}
+a:visited {color: #FF00FF;}
+a:hover {color: #FFFF00;}
+a:active {color: #FF0000;}
 
 
 body {
