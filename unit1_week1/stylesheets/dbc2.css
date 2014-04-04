@@ -2,3 +2,31 @@ body {
 	font-family: "Arial";
 }
 
+#header {
+	text-align: center;
+	background-color: #FF9900;
+	border-radius: 25px;
+}
+
+#sidebar {
+	float: left;
+	width: 150;
+	height: 500;
+	background-color: #FF9900;
+	border-radius: 25px;
+	text-align: center;
+
+}
+
+#content {
+	margin-left: 150px;
+	margin-right: 50px;
+	padding-left: 30px;
+}
+
+.flag {
+	margin-left: 150px;
+	border: 2px solid;
+	border-radius: 20px;
+
+}
