@@ -19,6 +19,7 @@ a:active {color: #FFFF66;}
 	float: left;
 	width: 150;
 	height: 500;
+	margin-top: 20px;
 	background-color: #FF9900;
 	border-radius: 25px;
 	text-align: center;
@@ -37,7 +38,6 @@ a:active {color: #FFFF66;}
 	padding-left: 30;
 	border: 2px solid;
 	border-radius: 25px;
-/*	min-height: 80px; */
 	margin-bottom: 15px;
 	margin-top: 15px;
 
