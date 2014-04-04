@@ -6,6 +6,7 @@ body {
 	text-align: center;
 	background-color: #FF9900;
 	border-radius: 25px;
+	font-color: #FFFFFF;
 }
 
 #sidebar {
@@ -29,8 +30,9 @@ body {
 	padding-left: 30;
 	border: 2px solid;
 	border-radius: 25px;
-	min-height: 80px;
+/*	min-height: 80px; */
 	margin-bottom: 15px;
+	margin-top: 15px;
 
 }
 
