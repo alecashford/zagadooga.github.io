@@ -35,6 +35,15 @@ a:active {color: #FFFF66;}
 	padding-left: 20 px;
 }
 
+.paragraph {
+	margin-left: 180px;
+	margin-right: 100px;
+	padding-left: 30px;
+	background-color: #FF9900;
+	border-radius: 25px;
+	padding-left: 20 px;
+}
+
 #footer {
 	margin-left: 150px;
 	font-size: 10;
