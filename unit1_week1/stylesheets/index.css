@@ -26,12 +26,13 @@ a:active {color: #FFFF66;}
 
 }
 
-#content {
+#content p {
 	margin-left: 150px;
 	margin-right: 100px;
 	padding-left: 30px;
 	background-color: #FF9900;
 	border-radius: 25px;
+	padding-left: 20 px;
 }
 
 #footer {
