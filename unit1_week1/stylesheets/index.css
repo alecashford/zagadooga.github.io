@@ -19,7 +19,6 @@ a:active {color: #FFFF66;}
 	float: left;
 	width: 150;
 	height: 500;
-	padding-right: 30px;
 	margin-top: 20px;
 	background-color: #FF9900;
 	border-radius: 25px;
@@ -28,7 +27,7 @@ a:active {color: #FFFF66;}
 }
 
 #content {
-	margin-left: 150px;
+	margin-left: 180px;
 	margin-right: 100px;
 	padding-left: 30px;
 	background-color: #FF9900;
