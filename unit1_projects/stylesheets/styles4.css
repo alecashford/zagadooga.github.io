@@ -231,6 +231,16 @@ woman {
 }
 
 
-@media only screen and (max-device-width: 480px) {
+@media screen and (max-device-width: 480px) {
+
+  woman {
+  background-color: white;
+  float: left;
+  min-height: 250px;
+  margin: 1%;
+  padding: 2%;
+  width: 27.33%;
+  clear: both;
+}
 
   }
