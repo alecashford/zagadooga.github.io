@@ -233,6 +233,10 @@ woman {
 
 @media screen and (max-device-width: 480px) {
 
+body {
+  font-size: 200%;
+}
+
   woman {
   width: 100%;
   clear: both;
