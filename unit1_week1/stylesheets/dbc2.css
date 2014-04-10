@@ -15,6 +15,11 @@ a:active {color: #FFFF66;}
 	border-radius: 25px;
 }
 
+a {
+  color: #1D766F;
+  text-decoration: none;
+}
+
 #sidebar {
 	float: left;
 	width: 150;

@@ -9,33 +9,8 @@ body {
   width: 100%;
 }
 
-a:link {
-  color: blue;
-   text-decoration: none;
-  
-}
-
-a:visited {
-  color: purple;
-  text-decoration: none;
-}
-
-a:hover {
-    color: white;
-    text-decoration: italic;
-}
-
-a:active {
-    color: red;
-}
-
 p {
   margin: 1em;
-}
-
-a {
-  color: #1D766F;
-  text-decoration: none;
 }
 
 a {
@@ -127,7 +102,7 @@ h4 {
 
 
 /* Main */
-#main article {
+#main div {
   margin-bottom: 1em;
   position: relative;
 }
@@ -146,7 +121,7 @@ h4 {
 
 
 /* Famous Women */
-woman {
+#famous div.woman {
   background-color: white;
   float: left;
   min-height: 250px;
@@ -155,10 +130,9 @@ woman {
   width: 27.33%;
 }
 
-.break {
+#famous div.break {
   clear: both;
 }
-
 
 #famous div img {
   display: block;
@@ -166,9 +140,6 @@ woman {
   width: 100%;
 }
 
-#famous {
-  font-family: 'Sniglet';
-}
 
 /* Organizations */
 #organizations {
