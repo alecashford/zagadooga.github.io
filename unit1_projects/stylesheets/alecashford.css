@@ -38,8 +38,10 @@ nav {
 }
 
 section p {
-padding-right: 23.4375%;
-padding-top: 8.59375%;
-color: #3D3D3D;
+
+	padding-right: 23.4375%;
+	padding-top: 6.5%;
+	color: #3D3D3D;
+	line-height: 200%;
 }
 
