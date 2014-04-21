@@ -45,3 +45,14 @@ section {
 	line-height: 150%;
 }
 
+
+sidebar {
+	margin-right: 15px;
+	float: left;
+	width: 150;
+	height: 500;
+	margin-top: 20px;
+	background-color: #FF9900;
+	border-radius: 25px;
+	text-align: center;
+}
