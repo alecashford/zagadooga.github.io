@@ -38,7 +38,7 @@ nav {
 }
 
 section {
-	margin-left: 10%;
+	margin-left: 12%;
 	margin-right: 10%;
 	padding-top: 2%;
 	color: #3D3D3D;
@@ -47,12 +47,14 @@ section {
 
 
 sidebar {
-	margin-left: 15px;
+	text-decoration: none;
+	padding-top: 2%;
+	margin-left: 20px;
 	float: left;
 	width: 150;
 	height: 500;
 	margin-top: 20px;
 	border-radius: 10px;
-	border: 10px, solid;
+	border: 2px, solid;
 	text-align: center;
 }
