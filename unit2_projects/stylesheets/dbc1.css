@@ -1,0 +1,14 @@
+
+a:link {color: #0000FF;}
+a:visited {color: #FF00FF;}
+a:hover {color: #FFFF00;}
+a:active {color: #FF0000;}
+
+
+body {
+	font-family: "Arial";
+}
+
+.cat {
+	color: #FFA319;
+}
