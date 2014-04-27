@@ -48,6 +48,7 @@ loopy(3)
 #ensure diversity. I found this challenge technically challenging since I had to
 #learn a lot of the most important concepts along the way. For example, I did not
 #understand the purpose of the $ in ruby until I complete this challenge.
+<<<<<<< HEAD
 
 
 
@@ -55,3 +56,5 @@ loopy(3)
 
 
 
+=======
+>>>>>>> FETCH_HEAD
