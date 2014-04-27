@@ -1,4 +1,4 @@
-require_relative "harder_calculate_median.rb"
+require_relative "harder_calculate_median"
 
 describe 'median' do
   let(:array_1) { [1, 2, 3, 4, 5, 5, 7] }

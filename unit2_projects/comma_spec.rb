@@ -1,7 +1,5 @@
 require_relative "comma_solo.rb" 
 
-
-
 def random_num(min, max)
    rand(max - min + 1) + min
 end
