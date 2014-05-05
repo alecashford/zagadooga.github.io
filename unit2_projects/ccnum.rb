@@ -29,3 +29,10 @@ class CreditCard
         end
     end
 end
+
+=begin
+
+The only thing I found really difficult about this challenge (indeed, I never really got it)
+is why the spec believes that an ArgumentError isn't returned if the cc number is under
+16. It does when I run it in the terminal, so I really couldn't figure out what the problem
+was.
