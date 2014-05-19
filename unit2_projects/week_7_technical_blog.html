@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Alec Ashford's Personal website</title>
+    <meta charset=utf-8/>
+    <link rel="stylesheet" type="text/css" href="stylesheets/week2_technical.css">
+    <link rel="stylesheet" type="text/css" href="stylesheets/resewt.css">
+</head>
+
+<body>
+
+	<header>
+		<img src="images/canyon.jpg" alt="Header">
+	</header>
+
+	<nav>
+
+	<a href="http://zagadooga.github.io/unit1_projects/alecashford-home.html" class="link">Home</a>
+	<a href="URL" class="link">About Me</a>
+	<a href="http://zagadooga.github.io/unit1_projects/week2_technical.html" class="link">Blog</a>
+	<a href="URL" class="link">Projects</a>
+
+	</nav>
+
+	<sidebar>
+	<a href="http://zagadooga.github.io/unit1_projects/week2_technical.html">April 11, '14</a><br>
+	<a href="http://zagadooga.github.io/unit1_projects/week3_technical.html">April 20, '14</a>
+	</sidebar>
+
+	<section>
+		<h2>Week 7: Technical Blog - May 17, 2014</h2>
+		<p>
+			SQL injection is a serious security issue for all websites that include a database. Most websites store information in databases, which are simply repositories of raw information ordered very much like an excel spreadsheet. Much of this information is not going to be of interest to a hacker, but if he knows what he is looking for, he can “inject” lines of SQL code into input fields on your website and have returned to him personal information of the people registered on your website.<br><br>
+
+			For example, a clever hacker could input an SQL query that returned all data in a given table, under the condition that 1 = 1. Because 1 = 1 is always going to be true, the website will return every field where that is true, which is everywhere.<br><br>
+
+			It is possible to protect against SQL injection attacks by using SQL parameters, which will be evaluated and added to the server-side SQL in a controlled manner. SQL injection is intended to change the meaning of the original SQL code by modifying it so that it changes its function to a similar, valid, but harmful line of SQL. Using parameters prevents this because it treats the input as separate from the SQL code in the website and is not executed as a whole.
+		</p>
+	</section>
+
+</body>
+</html>
